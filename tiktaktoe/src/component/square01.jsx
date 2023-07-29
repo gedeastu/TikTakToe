@@ -1,10 +1,10 @@
-import './App.css'
 import React from 'react'
-const App = () => {
+const Square01 = () => {
   return (
     <>
     
     </>
   )
 }
-export default App;
+
+export default Square01
